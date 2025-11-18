@@ -5,6 +5,7 @@
         "queue": "cpp",
         "stack": "cpp",
         "iomanip": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__locale": "cpp"
     }
 }
